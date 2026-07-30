@@ -1,0 +1,20 @@
+
+=== Cleaning Run: 2026-07-30 23:20:39.315763 ===
+
+File: day4_test.xlsx
+Original rows: 3
+Removed 1 duplicates
+Final rows: 2
+Saved to: output\cleaned_day4_test.xlsx
+
+File: dirty_expenses.xlsx
+Original rows: 6
+Removed 0 duplicates
+Final rows: 6
+Saved to: output\cleaned_dirty_expenses.xlsx
+
+File: uber_dirty.xlsx
+Original rows: 5
+Removed 1 duplicates
+Final rows: 4
+Saved to: output\cleaned_uber_dirty.xlsx

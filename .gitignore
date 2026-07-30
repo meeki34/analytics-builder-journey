@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pycache/
+*.pycod
+.ipynb_checkpoints/
+
+# Project output - never push cleaned data
+week1_python/output/
+week1_python/input/*.xlsx
+*.log
+*.xlsx
+!week1_python/generate_dirty.py
+
+# Secrets
+.env
